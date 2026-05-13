@@ -1,16 +1,45 @@
-# React + Vite
+# Ahmed Waleed - Backend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 About This Portfolio
 
-Currently, two official plugins are available:
+Modern professional portfolio website showcasing my backend development projects and skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Live Demo:** [View Portfolio](https://my-portfolio-pe33zoy9n-wedos-projects-04bbe65f.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- React Router
+- CSS3 (Glassmorphism + Animations)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Featured Projects
+
+### 1. Ticket Platform
+- **Tech:** Spring Boot, PostgreSQL, Keycloak, JPA
+- **Features:** QR code validation, Role-based authentication, Event management
+- **GitHub:** [github.com/amf5/platform_learning](https://github.com/amf5/TicketAPP)
+
+### 2. Story AI
+- **Tech:** Spring Boot, FastAPI, Kafka, WebSocket
+- **Features:** AI story-to-video generation, Real-time updates, Cloudinary storage
+- **GitHub:** [github.com/amf5/storyaiAPP](https://github.com/amf5/storyaiAPP)
+
+### 3. Learning Platform
+- **Tech:** Node.js, Express, PostgreSQL, Redis
+- **Features:** Stripe payments, Real-time chat, AI video descriptions
+- **GitHub:** [github.com/amf5/platform_learning](https://github.com/amf5/platform_learning)
+
+---
+
+## 🏃‍♂️ Run Locally
+
+```bash
+git clone https://github.com/amf5/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
